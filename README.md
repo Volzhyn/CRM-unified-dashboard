@@ -5,10 +5,10 @@
 Interactive multi-page analytical application on **Plotly Dash**, combining 4 key blocks of CRM data from online schools (2023–2024):
 
 ### Includes 4 dashboards
-- Deals Performance — воронки, конверсии, выручка (€978k+), Win Rate по менеджерам
-- Calls Overview — 95k+ звонков, длительность, активность по часам, типы звонков
-- Marketing & ROI — LTV, CPA, CLTV, ROI по каналам (Facebook Ads, Google Ads, TikTok, Organic)
-- Geo Dashboard — география сделок по Германии и Европе, уровень языка студентов
+- Deals Performance — funnels, conversions, revenue (€978k+), Win Rate by managers
+- Calls Overview — 95k+ calls, duration, activity by hour, call types
+- Marketing & ROI — LTV, CPA, CLTV, ROI through channels (Facebook Ads, Google Ads, TikTok, Organic)
+- Geo Dashboard — geography of transactions in Germany and Europe, students' language proficiency
 
 ### Key metrics
 - Total Leads: 21,593 → Conversion Real: 3.9 % → Revenue: €978,650
@@ -27,7 +27,7 @@ Interactive multi-page analytical application on **Plotly Dash**, combining 4 ke
 ![Marketing & ROI](screenshots/marketing.png)
 ![Geo Dashboard](screenshots/geo.png)
 
-### Локальный запуск
+### Local launch
 ```bash
 pip install -r requirements.txt
 python app.py
