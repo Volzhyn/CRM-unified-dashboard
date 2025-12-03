@@ -27,6 +27,9 @@ Interactive multi-page analytical application on **Plotly Dash**, combining 4 ke
 ![Marketing & ROI](screenshots/marketing.png)
 ![Geo Dashboard](screenshots/geo.png)
 
+**Note**: Real CRM data is confidential and kept in a private repository.  
+The live dashboard runs on real data: → https://unified-dashboard-t2tr.onrender.com/deals
+
 ### Local launch
 ```bash
 pip install -r requirements.txt
