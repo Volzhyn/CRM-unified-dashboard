@@ -1,0 +1,6 @@
+dash==2.17.1
+plotly==5.24.1
+pandas==2.2.3
+numpy==1.26.4
+gunicorn==23.0.0
+fastparquet==2024.11.0
